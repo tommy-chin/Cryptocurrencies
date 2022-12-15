@@ -1,1 +1,3 @@
 # Cryptocurrencies
+## Purpose 
+An associate named Martha was interested in convincing her firm, Accountability Accounting, to include cryptocurrency investments for its customers. Since the firm has limited knowledge of cryptocurrencies, the plan was to create a data analysis using PCAs to create a report that illustrates the trading prices of popular cryptocurrencies as well as creating a classification system for these cryptocurrencies to be grouped in. The dataset provided needed to be cleaned in order to fit machine learning models. Unsupervised learning and more specifically, a clustering algorithm, was chosen to group the cryptocurrencies for data visualization. 
